@@ -1,0 +1,35 @@
+body
+{
+    background-color: #70D8AF    ;
+	background-image:url("bb.gif");
+	background-repeat:no-repeat;
+    background-size:cover;
+	
+    color: #fff;
+    font-size: 16px;
+   font-weight: bold;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ color: white ;
+ 
+} 
+  img{
+	  max-width:100%;
+	  height:auto;
+  }
+ .p1
+  
+  {
+	  color:#000;	  
+	  text-decoration: none;
+	  background: yellow  ; 
+	  box-shadow: 0px 0px yellow  ; 
+	  padding-top: 7px;
+	  padding-right: 30px;
+	  padding-left: 30px;
+	  padding-bottom: 7px;
+      border-radius: 100px;
+      font-weight: bold;
+      
+  }
+  .s1 {text-decoration: none;  }
+  .aa { width: 300px;border-radius: 20px;}
